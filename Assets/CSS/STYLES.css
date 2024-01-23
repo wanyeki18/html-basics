@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    font-family: "DejaVu Sans";
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+
+}
+th{
+    color: blue;
+
+}
+td{
+    background-color:none;
+}
+h2{
+    text-align: center;
+    font-family: Serif;
+    font-style: italic;
+}
+
+
+

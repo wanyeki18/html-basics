@@ -1,0 +1,33 @@
+#fname {
+    border: 5px solid blue;
+    margin: 10px;
+    padding: 5px;
+    font-family: Samanata;
+}
+#lname {
+    border: 5px solid black;
+    margin: 10px;
+    padding: 5px;
+    font-family: Samanata;
+}
+#email {
+    border: 5px dotted red;
+    margin: 10px;
+    padding: 5px;
+    font-family: "DejaVu Sans";
+}
+#dob {
+    border: 3px dashed purple;
+    margin: 10px;
+    padding: 5px;
+    font-family: Ubuntu;
+}
+#pass {
+    border: 7px solid black;
+    margin: 12px;
+    padding: 4px;
+    font-family: Z003;
+}
+body{
+    background-image: url("../images/my love.jpeg");
+}
